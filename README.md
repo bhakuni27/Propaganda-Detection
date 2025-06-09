@@ -1,11 +1,11 @@
 # Propaganda Detection
 Propaganda is a pervasive issue in today’s digital age, especially with the rise of social media, where information spreads rapidly and often without verification. Detecting propaganda is crucial for promoting media literacy, enabling informed decision-making, and curbing the spread of misleading or harmful content.
 
-This project builds a **binary text classification system** to determine whether a given sentence contains propaganda. We leverage two state-of-the-art transformer-based models, **BERT** and **RoBERTa**, to perform this task.
+This project builds a **binary text classification system** to determine whether a given piece of text contains propaganda. We leverage two state-of-the-art transformer-based models, **BERT** and **RoBERTa**, to perform this task.
 
 ## Prerequisites
 
-Ensure you have Python 3 and pip installed. If not, you can download Python from [python.org](https://www.python.org/).
+Ensure you have **Python 3** and **pip** installed. If not, you can download Python from [python.org](https://www.python.org/).
 
 To run this project, you’ll need the following libraries:
 
@@ -33,8 +33,8 @@ pip install torch transformers scikit-learn pandas numpy matplotlib seaborn
 #### 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/propaganda-detection.git
-cd propaganda-detection
+git clone https://github.com/bhakuni27/Propaganda-Detection.git
+cd Propaganda-Detection
 ```
 #### 2. Open the notebook:
 
