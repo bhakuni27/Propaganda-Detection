@@ -1,7 +1,7 @@
 # Propaganda Detection
 Propaganda is a pervasive issue in today’s digital age, especially with the rise of social media, where information spreads rapidly and often without verification. Detecting propaganda is crucial for promoting media literacy, enabling informed decision-making, and curbing the spread of misleading or harmful content.
 
-This project builds a **binary text classification system** to determine whether a given piece of text contains propaganda. We leverage two state-of-the-art transformer-based models, **BERT** and **RoBERTa**, to perform this task.
+This project builds a **binary text classification system** to determine whether a given piece of content contains propaganda. We leverage two state-of-the-art transformer-based models, **BERT** and **RoBERTa**, to perform this task.
 
 ## Prerequisites
 
